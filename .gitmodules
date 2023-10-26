@@ -1,0 +1,4 @@
+[submodule "Tesseract-OCR_for_Windows"]
+	path = Tesseract-OCR_for_Windows
+	url = https://github.com/peirick/Tesseract-OCR_for_Windows.git
+	branch = master
