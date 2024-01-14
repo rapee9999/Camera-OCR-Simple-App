@@ -1,5 +1,5 @@
 # Camera OCR Simple Application for Windows
-A simple Windows console application using OpenCV and Tesseract ORC to recognize charecters through a camera.
+A simple Windows console application using OpenCV and Tesseract ORC to recognize characters through a webcam.
 
 > **Disclaimer:** This is an example to setup a project and to use Tesseract in Windows application developement. Its performance and recognition accuracy are not optimized.
 
